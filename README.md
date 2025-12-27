@@ -1,2 +1,1 @@
-# Rock-Papaer-Scissor-game
-this is a simple javascript functionality builten rock paper scissor game
+This is not my own completely. i just costomized it a little bit for learning purpose.
